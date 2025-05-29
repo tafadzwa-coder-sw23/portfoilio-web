@@ -51,4 +51,5 @@ MIT License - feel free to use this project for your own portfolio!
 
 ## Author
 
-[Your Name]
+Ernest tafadzwa maenda
+
