@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Portfolio Website
 
 A modern, responsive portfolio website built with HTML and CSS.
 
@@ -51,4 +51,4 @@ MIT License - feel free to use this project for your own portfolio!
 
 ## Author
 
-[Your Name] 
+[Your Name]
